@@ -1,13 +1,12 @@
-# azeroth.wiki
+# Azeroth DB
 
-[azeroth.wiki](https://azeroth.wiki) is the WoW Forever database and player tools: a
-[talent calculator](https://azeroth.wiki/forever/talents/warrior),
-[Legacy planner](https://azeroth.wiki/forever/legacy), [spellbook](https://azeroth.wiki/forever/abilities),
-[races](https://azeroth.wiki/forever/races), [professions](https://azeroth.wiki/forever/professions),
-[items](https://azeroth.wiki/forever/items), [dungeon loot](https://azeroth.wiki/forever/dungeons),
-[quests](https://azeroth.wiki/forever/quests) and the [world map](https://azeroth.wiki/forever/map),
-with names, stats and icons read from the game client.
+[Azeroth DB](https://wowdb.wiki) is the WoW Forever database and player tools: a
+[talent calculator](https://wowdb.wiki/forever/talents/warrior),
+[Legacy planner](https://wowdb.wiki/forever/legacy), [spellbook](https://wowdb.wiki/forever/abilities),
+[races](https://wowdb.wiki/forever/races), [professions](https://wowdb.wiki/forever/professions),
+[items](https://wowdb.wiki/forever/items), [dungeon loot](https://wowdb.wiki/forever/dungeons),
+[quests](https://wowdb.wiki/forever/quests) and the [world map](https://wowdb.wiki/forever/map).
 
-- [World Recorder](https://github.com/azeroth-db/world-recorder): the WoW Forever addon and uploader that bring your characters and what your client sees to azeroth.wiki.
-- [wowdb-search](https://github.com/azeroth-db/wowdb-search): the browser extension that searches azeroth.wiki from the address bar.
-- [azeroth-db.github.io](https://azeroth-db.github.io): what azeroth.wiki offers WoW Forever players.
+- [World Recorder](https://github.com/azeroth-db/world-recorder): the WoW Forever addon and uploader that bring your characters and what your client sees to Azeroth DB.
+- [wowdb-search](https://github.com/azeroth-db/wowdb-search): the browser extension that searches Azeroth DB from the address bar.
+- [azeroth-db.github.io](https://azeroth-db.github.io): what Azeroth DB offers WoW Forever players.
